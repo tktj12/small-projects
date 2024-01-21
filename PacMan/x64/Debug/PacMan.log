@@ -1,7 +1,0 @@
-﻿  GhostSet.cpp
-  Pacman.cpp
-  Stage.cpp
-C:\Users\123au\source\repos\PacMan\Stage.cpp(47,39): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
-C:\Users\123au\source\repos\PacMan\Stage.cpp(47,31): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
-  코드를 생성하고 있습니다...
-  PacMan.vcxproj -> C:\Users\123au\source\repos\PacMan\x64\Debug\PacMan.exe
