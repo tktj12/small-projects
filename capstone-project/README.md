@@ -22,6 +22,8 @@
 <br></br>
 
 # 📷 Screenshot
+<img src="https://github.com/tktj12/small-projects/assets/136698877/4cde4361-8c3a-4c92-aa1d-bb289c26009a" width="400" height="400">
+<br></br>
 <img src="https://github.com/tktj12/small-projects/assets/136698877/b0e8630e-0ee8-479a-98b6-3308f05b6dc5" width="400" height="400">
 <img src="https://github.com/tktj12/small-projects/assets/136698877/ecf3cd6f-7da9-4009-a8ef-238b62c98265" width="400" height="400">
 
