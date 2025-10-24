@@ -16,8 +16,7 @@
 <br></br>
 
 # 🧑‍🤝‍🧑 Team
- * 앱 개발 2명
- * 앱 개발, 블루투스 통신 및 미디어파이프 1명
+ * 앱 개발 1명
  * **ME : 라즈베리파이, 파이썬 코드 및 3D 프린팅**
 <br></br>
 
@@ -30,3 +29,4 @@
 <br></br>
 
 <img src="https://github.com/tktj12/small-projects/assets/136698877/578094f8-0c96-4604-93f0-35eadc0d2752" width="800" height="600">
+
