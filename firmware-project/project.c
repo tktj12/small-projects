@@ -382,7 +382,7 @@ void SevenSeg(int No)
 void DelayWithBTN(unsigned int duration)
 {
 	volatile unsigned int delay;
-	for(delay=0; delay<=duration*430000; delay++)
+	for(delay=0; delay<=duration*430000; delay++) // 430000 == 약 0.1s
 	{
 		if(btn_flag1 == BTN_NOT_PRESSED && isButtonPressed(1)) {
 			btn_flag1 = BTN_PRESSED;
@@ -459,11 +459,11 @@ void MyApp()
 				for(int i = 0; i < 10; i++) {
 					blink_bit = (blink_bit+1) % 2;		//0, 1 반복
 					WriteData(state | blink_bit << 3);	//위에서 언급했던 4번째 비트
-					DelayWithBTN(1);
+					DelayWithBTN(1); // 0.1s
 				}
 			}
 			else
-				DelayWithBTN(10);	//10 * 100ms
+				DelayWithBTN(10);	//1s
 		}
 		else {
 			DelayWithBTN(10);
