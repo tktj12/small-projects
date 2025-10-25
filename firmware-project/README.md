@@ -40,3 +40,8 @@
 &nbsp; 1초 단위로 상태를 체크하여 정해진 시간이 경과하였을 경우 다음 상태로 넘어가도록 프로그래밍하였습니다.	//switching_flag 변수 이용  
 
 &nbsp; 딜레이 함수는 버튼이 눌렸다 떼진 상태인지 수시로 체크하여 버튼이 눌렸다 떼졌을 경우 바로바로 특정 동작을 할 수 있게끔 설계하였습니다. 누르고 있는 상태에서는 동작에 아무런 지장이 없도록 하였습니다.
+
+
+![project_picture](https://github.com/user-attachments/assets/81becc1f-91c9-495e-8ce8-7d2fe765e5da)
+
+
